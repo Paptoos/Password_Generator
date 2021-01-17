@@ -1,5 +1,5 @@
 # Password_Generator
-a Password Generator From Paptoos Inc
+a Password Generator
 # Create strong Passwords With this app
 
 You can change lenght of password .
